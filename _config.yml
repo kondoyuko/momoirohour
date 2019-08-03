@@ -1,16 +1,12 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  kondoyuko:
+    image_url: /images/actors/kondoyuko_icon.png
+    name: kondoyuko
+    url: https://twitter.com/kondoyuko
+author: kondoyuko
+description: kondoyukoが参加したイベント、体験したこと、最近はまってることなどを話す番組です
+description_long: まわりからアクティブだねと言われるkondoyukoが、参加したイベント、体験したこと、最近はまってることなど、記録に残したいことについて話していく番組です。
+email: 
 exclude:
   - docker
   - docker-compose.yml
@@ -20,8 +16,8 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
-itunes_podcast_url:
+hashtag: #ももいろアワー
+itunes_podcast_url: https://anchor.fm/s/d2375b4/podcast/rss
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
@@ -29,5 +25,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: kondoyukoのももいろアワー
+url: https://kondoyuko.github.io/momoirohour
