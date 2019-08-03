@@ -16,7 +16,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: #ももいろアワー
+hashtag: ももいろアワー
 itunes_podcast_url: https://anchor.fm/s/d2375b4/podcast/rss
 keywords: comma,separated,keywords
 language: ja
