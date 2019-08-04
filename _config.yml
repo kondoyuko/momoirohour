@@ -5,7 +5,7 @@ actors:
     url: https://twitter.com/kondoyuko
 author: kondoyuko
 description: kondoyukoが参加したイベント、体験したこと、最近はまってることなどを話す番組です
-description_long: まわりからアクティブだねと言われるkondoyukoが、参加したイベント、体験したこと、最近はまってることなど、記録に残したいことについて話していく番組です。
+description_long: まわりからアクティブだねと言われるkondoyukoが、参加したイベント、体験したこと、最近はまってることなど、記録に残したいことについて話していく番組
 email: 
 exclude:
   - docker
